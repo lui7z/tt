@@ -1,0 +1,74 @@
+{
+    "produtos": [
+        {
+            "id": 1764877217048,
+            "nome": "Arroz",
+            "preco": "3.35",
+            "categoria": "Cereais",
+            "imagem": "https://m.media-amazon.com/images/I/815Pn3Gp0lL._AC_SL1500_.jpg"
+        },
+        {
+            "id": 1764877531963,
+            "nome": "Feijão",
+            "preco": "5.07",
+            "categoria": "Grãos",
+            "imagem": "https://m.media-amazon.com/images/I/61uOLSuKTJL._AC_SL1000_.jpg"
+        },
+        {
+            "id": 1764877688497,
+            "nome": "Café",
+            "preco": "10.67",
+            "categoria": "Grãos",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_612400-MLB49552840872_042022-F.jpg"
+        },
+        {
+            "id": 1764878016114,
+            "nome": "Cuscuz",
+            "preco": "4.25",
+            "categoria": "Cereais",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_627822-MLA52548195334_112022-F.jpg"
+        },
+        {
+            "id": 1764878229698,
+            "nome": "Macarrão",
+            "preco": "7.00",
+            "categoria": "Grãos",
+            "imagem": "https://m.media-amazon.com/images/I/61adabRvbOL._AC_SL1200_.jpg"
+        },
+        {
+            "id": 1764878452081,
+            "nome": "Farinha",
+            "preco": "13.00",
+            "categoria": "Cereais",
+            "imagem": "https://capivariana.com.br/wp-content/uploads/2025/01/MOCKUP-FARINHA-DE-MANDIOCA-FINA-1kg.png"
+        },
+        {
+            "id": 1764878970748,
+            "nome": "Açucar",
+            "preco": "8.00",
+            "categoria": "Mercearia",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1215932/acucar_cristal_1kg_caete_555_1_a19782c68c56b60ebb66020fdfedf597.jpg"
+        },
+        {
+            "id": 1764879056750,
+            "nome": "Leite em pó",
+            "preco": "5.10",
+            "categoria": "Mercearia",
+            "imagem": "https://docefesta.jetassets.com.br/produto/671363-MAIN.png"
+        },
+        {
+            "id": 1764879192349,
+            "nome": "Linguiça",
+            "preco": "167.00",
+            "categoria": "Açougue",
+            "imagem": "https://www.svicente.com.br/on/demandware.static/-/Sites-storefront-catalog-sv/default/dwdf0d7daf/Produtos/25642-0000000003879-linguica%20calabresa%20perdigao%20kg-perdigao-1.jpg"
+        },
+        {
+            "id": 1764879277081,
+            "nome": "Soja",
+            "preco": "7.54",
+            "categoria": "Grãos",
+            "imagem": "https://m.media-amazon.com/images/I/517ePRGGJnL._AC_SX679_.jpg"
+        }
+    ]
+}
